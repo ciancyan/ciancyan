@@ -1,4 +1,4 @@
-[![DiscordProfile](https://fila.aleu.xyz/discord/user/1269690938465452076?theme=dark)](https://discord.com/users/1269690938465452076)
+[![DiscordProfile](https://fila.aleu.xyz/discord/user/1269690938465452076?theme=dark&detail=true)](https://discord.com/users/1269690938465452076)
 
 <!---
 ciancyan/ciancyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
